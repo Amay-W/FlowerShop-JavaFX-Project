@@ -1,92 +1,126 @@
 # FlowerShop JavaFX Application 🌻🌷🌼
 
-Welcome to my **FlowerShop JavaFX Application** repository! This project is a part of my journey to learn and enhance my skills in Java programming and JavaFX for creating GUI applications. Through this project, I explored various concepts such as data binding, event handling, file I/O, and form validations, while also focusing on designing user-friendly interfaces.
+Welcome to my **FlowerShop JavaFX Application** repository! This project was designed to enhance my Java programming and JavaFX skills. By developing this application, I explored core concepts such as data binding, event handling, file I/O, and input validations while focusing on creating an intuitive GUI.
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [How It Works](#how-it-works)
-- [Setup Instructions](#setup-instructions)
-- [Future Improvements](#future-improvements)
-- [License](#license)
+## 📋 Table of Contents
+- [📖 Overview](#-overview)
+- [✨ Features](#-features)
+- [🖼 Screenshots](#-screenshots)
+- [🛠 Technologies Used](#-technologies-used)
+- [⚙️ How It Works](#️-how-it-works)
+- [🚀 Setup Instructions](#-setup-instructions)
+- [🚧 Future Improvements](#-future-improvements)
 
 ---
 
-## Overview
-This project is a fully interactive **FlowerShop application** built using JavaFX. The application allows users to:
-1. Enter their details (Name, Email, Phone).
-2. Browse a variety of flowers available for purchase.
-3. Select quantities of flowers and generate a receipt.
-4. Manage stock quantities of flowers dynamically based on purchases.
+## 📖 Overview
+This application simulates a FlowerShop platform. Users can:
+1. Enter their personal details (Name, Email, Phone).
+2. Browse through a variety of flowers available for purchase.
+3. Select desired quantities and generate a receipt.
+4. Manage flower inventory dynamically.
 
-The purpose of this project was to simulate a small-scale e-commerce platform for learning JavaFX concepts and file-based data management.
-
----
-
-## Features
-- **Opening Screen**: User enters their name, email, and phone number with proper input validations.
-- **Flower Selection**: Displays a table of flowers with prices, available quantities, and an interactive quantity selector.
-- **Checkout Screen**: Shows a receipt of the purchase with the total cost.
-- **Dynamic Inventory Management**: Stock is updated based on the user's purchase.
-- **File I/O**: Uses `Flowers.txt` to store flower data and `CustomerDetails.txt` to record customer transactions.
+This project served as a practical exercise to learn JavaFX and implement real-world application scenarios.
 
 ---
 
-## Screenshots
-
-### Opening Screen
-![Opening Screen](https://via.placeholder.com/600x400.png?text=Opening+Screen)
-
----
-
-### Flower Selection Screen
-![Flower Selection](https://via.placeholder.com/600x400.png?text=Flower+Selection+Screen)
+## ✨ Features
+- **Opening Screen**: Collect user details with validations.
+- **Flower Selection**: Display available flowers in a table with pricing and inventory information.
+- **Checkout**: Generate a detailed receipt for purchases.
+- **Inventory Management**: Dynamically update stock based on purchases.
+- **File I/O**: Store flower and transaction data persistently.
 
 ---
 
-### Checkout Screen
-![Checkout Screen](https://via.placeholder.com/600x400.png?text=Checkout+Screen)
+## 🖼 Screenshots
+
+### 🌟 Opening Screen
+![Opening Screen](readmeAssets/Coverpage.png)
 
 ---
 
-## Technologies Used
-- **Java**: The programming language used for the backend logic.
-- **JavaFX**: For building the GUI interface.
-- **File I/O**: To manage flower inventory (`Flowers.txt`) and customer transaction records (`CustomerDetails.txt`).
+### 🌼 Flower Selection Screen
+![Flower Selection](readmeAssets/BuyFlowerpage.png)
 
 ---
 
-## How It Works
-1. **User Details**:
-   - The application starts with an opening screen where users must enter their **name**, **email**, and **phone number**.
+### 🧾 Checkout Screen
+![Checkout Screen](readmeAssets/Receipt.png)
+
+---
+
+### 📂 Customer Details File
+![Customer Details](readmeAssets/CustomerDetails.png)
+
+---
+
+## 🛠 Technologies Used
+- **Java**: Backend programming.
+- **JavaFX**: For the user interface.
+- **File I/O**: To persist flower inventory and transaction data.
+
+---
+
+## ⚙️ How It Works
+1. **Opening Screen**:
+   - Users enter their details: Name, Email, and Phone Number.
    - Validations ensure:
      - Name contains only alphabets.
      - Email is in the correct format.
-     - Phone number is numeric and at least 10 digits long.
+     - Phone number is numeric and at least 10 digits.
 
 2. **Flower Selection**:
-   - A table displays all available flowers, including their names, prices, and available quantities.
-   - Users can select the desired quantity of each flower.
+   - Users browse through a table of flowers with their prices and available quantities.
+   - A spinner allows users to select desired quantities.
 
 3. **Checkout**:
-   - The checkout screen provides a detailed receipt, including customer details, selected flowers, total cost, and updated inventory.
-   - Customer and transaction data are saved in `CustomerDetails.txt`.
+   - A detailed receipt is displayed, including customer details, selected flowers, total cost, and updated inventory.
+   - Customer transactions are saved to `CustomerDetails.txt`.
 
 4. **Dynamic Inventory Management**:
-   - Once a purchase is confirmed, the flower stock is reduced dynamically in the `Flowers.txt` file.
+   - Inventory in `Flowers.txt` is updated after every purchase.
 
 ---
 
-## Setup Instructions
+## 🚀 Setup Instructions
+
 Follow these steps to set up and run the project:
 
-1. Clone the repository:
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/FlowerShop-JavaFX-Project.git
-   Open the project in your favorite Java IDE (e.g., IntelliJ IDEA or Eclipse or VScode).
-2. Make sure you have JavaFX installed and configured in your IDE.
-3. Run the FlowershopApp class to start the application.
+   git clone https://github.com/Amay-W/FlowerShop-JavaFX-Project.git
+2. **Add JavaFX Dependencies**:
+   - Add the JavaFX dependencies in your IDE (e.g., VS Code).
+     
+     ![JavaFX Dependencies](readmeAssets/JavaFXdepend.png)
+
+3. **Add Launch Configuration**:
+   - Navigate to the **Run** tab and select **Add Configuration**:
+     
+     ![Add Configuration](readmeAssets/AddConfig.png)
+   - Add the following `launch.json` entry (replace the `C:/Program Files/Java/javafx-sdk-23.0.1/lib` with your JavaFX SDK path):
+     ```json
+     "vmArgs": "--module-path \"C:/Program Files/Java/javafx-sdk-23.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+     ```
+   - Example of `launch.json`:
+     ![launch.json Example](readmeAssets/launchJson.png)
+
+4. **Run the Application**:
+   - Open the project in your IDE.
+   - Run the `FlowershopApp.java` file.
+
+---
+
+## 🚧 Future Improvements
+- **Email Integration**: Automatically send receipts to users via email.
+- **Database Integration**: Replace text files with a relational database for better scalability.
+- **Enhanced UI**: Improve design and responsiveness.
+
+---
+
+
+
+   
