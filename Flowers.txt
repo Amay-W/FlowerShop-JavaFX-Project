@@ -1,0 +1,288 @@
+Roses,9.99,21
+Tulips,7.5,17
+Daisies,6.99,13
+Lilies,12.99,36
+Carnations,4.99,16
+Orchids,18.99,36
+Sunflowers,5.99,67
+Peonies,19.99,66
+Hydrangeas,9.99,30
+Daffodils,4.25,25
+Dahlias,13.99,30
+Irises,11.5,18
+Chrysanthemums,8.99,20
+Asters,7.99,10
+Gladioli,14.99,10
+Ranunculus,16.5,50
+Anemones,9.5,30
+Freesias,12.99,7
+Marigolds,6.5,20
+Zinnias,5.99,15
+Dusty millers,7.99,11
+Baby's breath,8.99,80
+Snapdragons,9.99,12
+Gardenias,14.99,70
+Amaryllis,11.99,60
+Hibiscus,9.99,80
+Lavender,8.99,70
+Pansies,6.99,18
+Forget-me-nots,7.99,12
+Crocuses,6.99,10
+Buttercups,5.99,20
+Cherry blossoms,10.99,50
+Birds of paradise,17.99,40
+Bleeding hearts,12.99,60
+Hyacinths,9.99,30
+Narcissus,6.99,19
+Roses,9.99,27
+Tulips,7.5,17
+Daisies,6.99,13
+Lilies,12.99,38
+Carnations,4.99,16
+Orchids,18.99,40
+Sunflowers,5.99,70
+Peonies,19.99,70
+Hydrangeas,9.99,30
+Daffodils,4.25,25
+Dahlias,13.99,30
+Irises,11.5,18
+Chrysanthemums,8.99,20
+Asters,7.99,10
+Gladioli,14.99,10
+Ranunculus,16.5,50
+Anemones,9.5,30
+Freesias,12.99,7
+Marigolds,6.5,20
+Zinnias,5.99,15
+Dusty millers,7.99,11
+Baby's breath,8.99,80
+Snapdragons,9.99,12
+Gardenias,14.99,70
+Amaryllis,11.99,60
+Hibiscus,9.99,80
+Lavender,8.99,70
+Pansies,6.99,18
+Forget-me-nots,7.99,12
+Crocuses,6.99,10
+Buttercups,5.99,20
+Cherry blossoms,10.99,50
+Birds of paradise,17.99,40
+Bleeding hearts,12.99,60
+Hyacinths,9.99,30
+Narcissus,6.99,18
+Roses,9.99,21
+Tulips,7.5,17
+Daisies,6.99,13
+Lilies,12.99,38
+Carnations,4.99,16
+Orchids,18.99,38
+Sunflowers,5.99,69
+Peonies,19.99,70
+Hydrangeas,9.99,30
+Daffodils,4.25,25
+Dahlias,13.99,30
+Irises,11.5,18
+Chrysanthemums,8.99,20
+Asters,7.99,10
+Gladioli,14.99,10
+Ranunculus,16.5,50
+Anemones,9.5,30
+Freesias,12.99,7
+Marigolds,6.5,20
+Zinnias,5.99,15
+Dusty millers,7.99,11
+Baby's breath,8.99,80
+Snapdragons,9.99,12
+Gardenias,14.99,70
+Amaryllis,11.99,60
+Hibiscus,9.99,80
+Lavender,8.99,70
+Pansies,6.99,18
+Forget-me-nots,7.99,12
+Crocuses,6.99,10
+Buttercups,5.99,20
+Cherry blossoms,10.99,50
+Birds of paradise,17.99,40
+Bleeding hearts,12.99,60
+Hyacinths,9.99,30
+Narcissus,6.99,19
+Roses,9.99,27
+Tulips,7.5,17
+Daisies,6.99,13
+Lilies,12.99,38
+Carnations,4.99,16
+Orchids,18.99,40
+Sunflowers,5.99,70
+Peonies,19.99,70
+Hydrangeas,9.99,30
+Daffodils,4.25,25
+Dahlias,13.99,30
+Irises,11.5,18
+Chrysanthemums,8.99,20
+Asters,7.99,10
+Gladioli,14.99,10
+Ranunculus,16.5,50
+Anemones,9.5,30
+Freesias,12.99,7
+Marigolds,6.5,20
+Zinnias,5.99,15
+Dusty millers,7.99,11
+Baby's breath,8.99,80
+Snapdragons,9.99,12
+Gardenias,14.99,70
+Amaryllis,11.99,60
+Hibiscus,9.99,80
+Lavender,8.99,70
+Pansies,6.99,18
+Forget-me-nots,7.99,12
+Crocuses,6.99,10
+Buttercups,5.99,20
+Cherry blossoms,10.99,50
+Birds of paradise,17.99,40
+Bleeding hearts,12.99,60
+Hyacinths,9.99,30
+Narcissus,6.99,18
+Roses,9.99,21
+Tulips,7.5,17
+Daisies,6.99,13
+Lilies,12.99,38
+Carnations,4.99,16
+Orchids,18.99,36
+Sunflowers,5.99,67
+Peonies,19.99,66
+Hydrangeas,9.99,30
+Daffodils,4.25,25
+Dahlias,13.99,30
+Irises,11.5,18
+Chrysanthemums,8.99,20
+Asters,7.99,10
+Gladioli,14.99,10
+Ranunculus,16.5,50
+Anemones,9.5,30
+Freesias,12.99,7
+Marigolds,6.5,20
+Zinnias,5.99,15
+Dusty millers,7.99,11
+Baby's breath,8.99,80
+Snapdragons,9.99,12
+Gardenias,14.99,70
+Amaryllis,11.99,60
+Hibiscus,9.99,80
+Lavender,8.99,70
+Pansies,6.99,18
+Forget-me-nots,7.99,12
+Crocuses,6.99,10
+Buttercups,5.99,20
+Cherry blossoms,10.99,50
+Birds of paradise,17.99,40
+Bleeding hearts,12.99,60
+Hyacinths,9.99,30
+Narcissus,6.99,19
+Roses,9.99,27
+Tulips,7.5,17
+Daisies,6.99,13
+Lilies,12.99,38
+Carnations,4.99,16
+Orchids,18.99,40
+Sunflowers,5.99,70
+Peonies,19.99,70
+Hydrangeas,9.99,30
+Daffodils,4.25,25
+Dahlias,13.99,30
+Irises,11.5,18
+Chrysanthemums,8.99,20
+Asters,7.99,10
+Gladioli,14.99,10
+Ranunculus,16.5,50
+Anemones,9.5,30
+Freesias,12.99,7
+Marigolds,6.5,20
+Zinnias,5.99,15
+Dusty millers,7.99,11
+Baby's breath,8.99,80
+Snapdragons,9.99,12
+Gardenias,14.99,70
+Amaryllis,11.99,60
+Hibiscus,9.99,80
+Lavender,8.99,70
+Pansies,6.99,18
+Forget-me-nots,7.99,12
+Crocuses,6.99,10
+Buttercups,5.99,20
+Cherry blossoms,10.99,50
+Birds of paradise,17.99,40
+Bleeding hearts,12.99,60
+Hyacinths,9.99,30
+Narcissus,6.99,18
+Roses,9.99,21
+Tulips,7.5,17
+Daisies,6.99,13
+Lilies,12.99,38
+Carnations,4.99,16
+Orchids,18.99,38
+Sunflowers,5.99,69
+Peonies,19.99,70
+Hydrangeas,9.99,30
+Daffodils,4.25,25
+Dahlias,13.99,30
+Irises,11.5,18
+Chrysanthemums,8.99,20
+Asters,7.99,10
+Gladioli,14.99,10
+Ranunculus,16.5,50
+Anemones,9.5,30
+Freesias,12.99,7
+Marigolds,6.5,20
+Zinnias,5.99,15
+Dusty millers,7.99,11
+Baby's breath,8.99,80
+Snapdragons,9.99,12
+Gardenias,14.99,70
+Amaryllis,11.99,60
+Hibiscus,9.99,80
+Lavender,8.99,70
+Pansies,6.99,18
+Forget-me-nots,7.99,12
+Crocuses,6.99,10
+Buttercups,5.99,20
+Cherry blossoms,10.99,50
+Birds of paradise,17.99,40
+Bleeding hearts,12.99,60
+Hyacinths,9.99,30
+Narcissus,6.99,19
+Roses,9.99,27
+Tulips,7.5,17
+Daisies,6.99,13
+Lilies,12.99,38
+Carnations,4.99,16
+Orchids,18.99,40
+Sunflowers,5.99,70
+Peonies,19.99,70
+Hydrangeas,9.99,30
+Daffodils,4.25,25
+Dahlias,13.99,30
+Irises,11.5,18
+Chrysanthemums,8.99,20
+Asters,7.99,10
+Gladioli,14.99,10
+Ranunculus,16.5,50
+Anemones,9.5,30
+Freesias,12.99,7
+Marigolds,6.5,20
+Zinnias,5.99,15
+Dusty millers,7.99,11
+Baby's breath,8.99,80
+Snapdragons,9.99,12
+Gardenias,14.99,70
+Amaryllis,11.99,60
+Hibiscus,9.99,80
+Lavender,8.99,70
+Pansies,6.99,18
+Forget-me-nots,7.99,12
+Crocuses,6.99,10
+Buttercups,5.99,20
+Cherry blossoms,10.99,50
+Birds of paradise,17.99,40
+Bleeding hearts,12.99,60
+Hyacinths,9.99,30
+Narcissus,6.99,18
